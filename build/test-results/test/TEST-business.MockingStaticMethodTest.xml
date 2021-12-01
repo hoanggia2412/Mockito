@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="business.MockingStaticMethodTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T17:59:04" hostname="DESKTOP-EH88R88" time="1.967">
+  <properties/>
+  <testcase name="testRetrieveTodosRelatedToSpring_usingAMock()" classname="business.MockingStaticMethodTest" time="1.967"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
